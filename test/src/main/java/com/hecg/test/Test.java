@@ -7,5 +7,9 @@ public class Test {
 			System.out.println("test" + i);
 		}
 	}
+	
+	public void test1() {
+		System.out.println("test new branch");
+	}
 
 }
